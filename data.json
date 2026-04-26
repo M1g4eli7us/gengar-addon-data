@@ -6,6 +6,6 @@
         {"nombre": "Serie 1", "url": "https://tuenlace.com/serie1.mp4"}
     ],
     "deportes": [
-        {"nombre": "LaLigaTV BAR1", "url": "https://la14hd.com/vivo/canales.php?stream=dazn1"}
+        {"nombre": "La Liga TV", "url": "https://la14hd.com/vivo/canales.php?stream=dazn1"}
     ]
 }
