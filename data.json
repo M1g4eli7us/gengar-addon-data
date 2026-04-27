@@ -6,6 +6,14 @@
         {"nombre": "Serie 1", "url": "https://tuenlace.com/serie1.mp4"}
     ],
     "tvdirecto": [
-        {"nombre": "La Liga TV", "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"}
+        {"nombre": "La Liga TV", "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"},
+        {"nombre": "Dragon Ball Z", "url": "https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8"},
+        {"nombre": "Dragon Ball", "url": "https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8"},
+        {"nombre": "El Comisario", "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8"},
+        {"nombre": "Águila Roja", "url": "https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8"},
+        {"nombre": "Detective Conan", "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8"},
+        {"nombre": "South Park", "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8"},
+        {"nombre": "Heidi", "url": "https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8"},
+        {"nombre": "UFC", "url": "https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8"}
     ]
 }
