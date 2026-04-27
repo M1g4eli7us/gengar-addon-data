@@ -5,7 +5,7 @@
     "series": [
         {"nombre": "Serie 1", "url": "https://tuenlace.com/serie1.mp4"}
     ],
-    "deportes": [
+    "tvdirecto": [
         {"nombre": "La Liga TV", "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTZID4SFOqZLZ81NguVP-JxM/m3u8"}
     ]
 }
