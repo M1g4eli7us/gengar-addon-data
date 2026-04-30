@@ -4,26 +4,31 @@
     ],
     "series": [
         {
+            "nombre": "Neon Genesis Evangelion - Castellano",
+            "tipo": "archive_dinamico",
+            "archive_id": "evangelioncastellano"
+        },
+        {
             "nombre": "Malcolm in the Middle - Ingles",
             "tipo": "archive_dinamico",
             "archive_id": "malcolm-in-the-middle-complete-series-2000-2006",
             "subcarpeta": "Malcolm in the Middle (The Complete Series) [2000 - 2006]/"
         },
         {
-            "nombre": "Neon Genesis Evangelion - Castellano",
+            "nombre": "Digimon Tamers - Castellano",
             "tipo": "archive_dinamico",
-            "archive_id": "evangelioncastellano"
+            "archive_id": "digimon-tamers-serie-completa-hd"
+        },
+        {
+            "nombre": "Breaking Bad - Castellano",
+            "tipo": "archive_dinamico",
+            "archive_id": "breaking-bad-castellano"
         },
         {
             "nombre": "Bola de Drac - Català",
             "tipo": "archive_dinamico",
             "archive_id": "boladedrac-cat",
             "subcarpeta": "cat/"
-        },
-        {
-            "nombre": "Digimon Tamers - Castellano",
-            "tipo": "archive_dinamico",
-            "archive_id": "digimon-tamers-serie-completa-hd"
         }
     ],
     "deportes": [
