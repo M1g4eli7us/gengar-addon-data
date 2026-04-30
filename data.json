@@ -193,6 +193,43 @@
                     ]
                 }
             ]
+        },
+        {
+            "nombre": "Neon Genesis Evangelion - Castellano",
+            "temporadas": [
+                {
+                    "nombre": "Temporada 1",
+                    "episodios": [
+                        {"nombre": "01 - El ataque del Ángel", "url": "https://archive.org/download/evangelioncastellano/01%20-%20El%20ataque%20del%20%C3%81ngel.mp4"},
+                        {"nombre": "02 - Un techo desconocido", "url": "https://archive.org/download/evangelioncastellano/02%20-%20Un%20techo%20desconocido.mp4"},
+                        {"nombre": "03 - El teléfono no suena", "url": "https://archive.org/download/evangelioncastellano/03%20-%20El%20tel%C3%A9fono%20no%20suena.mp4"},
+                        {"nombre": "04 - Lluvia, después de la huida", "url": "https://archive.org/download/evangelioncastellano/04%20-%20Lluvia%2C%20despu%C3%A9s%20de%20la%20huida.mp4"},
+                        {"nombre": "05 - Rei, al otro lado de su corazón", "url": "https://archive.org/download/evangelioncastellano/05%20%20-Rei%2C%20al%20otro%20lado%20de%20su%20coraz%C3%B3n.mp4"},
+                        {"nombre": "06 - La batalla decisiva. Distrito3 Nuevo Tokio. Rei", "url": "https://archive.org/download/evangelioncastellano/06%20-%20La%20batalla%20decisiva.%20Distrito3%20Nuevo%20Tokio.%20Rei.mp4"},
+                        {"nombre": "07 - Construído por los hombres", "url": "https://archive.org/download/evangelioncastellano/07%20-%20Constru%C3%ADdo%20por%20los%20hombres.mp4"},
+                        {"nombre": "08 - Asuka llega a Japón", "url": "https://archive.org/download/evangelioncastellano/08%20-%20Asuka%20llega%20a%20Jap%C3%B3n.mp4"},
+                        {"nombre": "09 - Un instante, una mente al unísono", "url": "https://archive.org/download/evangelioncastellano/09%20-%20Un%20instante%2C%20una%20mente%20al%20un%C3%ADsono.mp4"},
+                        {"nombre": "10 - Sumergido en el magma", "url": "https://archive.org/download/evangelioncastellano/10%20-%20Sumergido%20en%20el%20magma.mp4"},
+                        {"nombre": "11 - En las tinieblas inmóviles. Más allá de la oscuridad", "url": "https://archive.org/download/evangelioncastellano/11%20-%20En%20las%20tinieblas%20inm%C3%B3viles.%20M%C3%A1s%20all%C3%A1%20de%20la%20oscuridad.mp4"},
+                        {"nombre": "12 - El valor de un milagro", "url": "https://archive.org/download/evangelioncastellano/12%20-%20El%20valor%20de%20un%20milagro.mp4"},
+                        {"nombre": "13 - La invasión del Ángel", "url": "https://archive.org/download/evangelioncastellano/13%20-%20La%20invasi%C3%B3n%20del%20%C3%81ngel.mp4"},
+                        {"nombre": "14 - Se el lugar de los espíritus. Tejiendo una historia", "url": "https://archive.org/download/evangelioncastellano/14%20-%20Se%20el%20lugar%20de%20los%20esp%C3%ADritus.%20Tejiendo%20una%20historia.mp4"},
+                        {"nombre": "15 - Mentiras y silencio ansia de besos", "url": "https://archive.org/download/evangelioncastellano/15%20-%20Mentiras%20y%20silencio%20ansia%20de%20besos.mp4"},
+                        {"nombre": "16 - Al borde de la muerte y después...", "url": "https://archive.org/download/evangelioncastellano/16%20-%20Al%20borde%20de%20la%20muerte%20y%20despu%C3%A9s....mp4"},
+                        {"nombre": "17 - Apto para ser el cuarto elegido", "url": "https://archive.org/download/evangelioncastellano/17%20-%20Apto%20para%20ser%20el%20cuarto%20elegido.mp4"},
+                        {"nombre": "18 - El juicio de la vida", "url": "https://archive.org/download/evangelioncastellano/18%20-%20El%20juicio%20de%20la%20vida.mp4"},
+                        {"nombre": "19 - La lucha de un muchacho", "url": "https://archive.org/download/evangelioncastellano/19%20-%20La%20lucha%20de%20un%20muchacho.mp4"},
+                        {"nombre": "20 - La forma de la mente", "url": "https://archive.org/download/evangelioncastellano/20%20-%20La%20forma%20de%20la%20mente.mp4"},
+                        {"nombre": "21 - El nacimiento de NERV", "url": "https://archive.org/download/evangelioncastellano/21%20-%20El%20nacimiento%20de%20NERV.mp4"},
+                        {"nombre": "22 - Al menos actúa como un ser humano", "url": "https://archive.org/download/evangelioncastellano/22%20-%20Al%20menos%20act%C3%BAa%20como%20un%20ser%20humano.mp4"},
+                        {"nombre": "23 - Rei Lágrimas", "url": "https://archive.org/download/evangelioncastellano/23%20-%20Rei%20L%C3%A1grimas.mp4"},
+                        {"nombre": "24 - El Último enviado", "url": "https://archive.org/download/evangelioncastellano/24%20-%20El%20%C3%9Altimo%20enviado.mp4"},
+                        {"nombre": "25 - Aire. Un mundo que se acaba", "url": "https://archive.org/download/evangelioncastellano/25%20-%20Aire%20Un%20mundo%20que%20se%20acaba.mp4"},
+                        {"nombre": "26 - La bestia que gritaba amor en el corazón del mundo", "url": "https://archive.org/download/evangelioncastellano/26%20-%20La%20bestia%20que%20gritaba%20amor%20en%20el%20coraz%C3%B3n%20del%20mundo.mp4"},
+                        {"nombre": "Escena Final", "url": "https://archive.org/download/evangelioncastellano/Neon%20genesis%20evangelion%20escena%20final%20castellano.mp4"}
+                    ]
+                }
+            ]
         }
     ],
     "deportes": [
