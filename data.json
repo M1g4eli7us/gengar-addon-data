@@ -19,6 +19,11 @@
             "tipo": "archive_dinamico",
             "archive_id": "boladedrac-cat",
             "subcarpeta": "cat/"
+        },
+        {
+            "nombre": "Digimon Tamers - Castellano",
+            "tipo": "archive_dinamico",
+            "archive_id": "digimon-tamers-serie-completa-hd"
         }
     ],
     "deportes": [
