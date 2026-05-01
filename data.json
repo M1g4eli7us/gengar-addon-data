@@ -27,6 +27,11 @@
             "archive_id": "breaking-bad-castellano"
         },
         {
+            "nombre": "Death Note - Ingles",
+            "tipo": "archive_dinamico",
+            "archive_id": "death-note-complete-2006-2007"
+        },
+        {
             "nombre": "Bola de Drac - Català",
             "tipo": "archive_dinamico",
             "archive_id": "boladedrac-cat",
