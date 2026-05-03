@@ -2,6 +2,11 @@
     "peliculas": [
         {"nombre": "El Camino - Una película de Breaking Bad", "url": "https://ia601206.us.archive.org/11/items/el-camino-una-pelicula-de-breaking-bad_202507/El%20Camino%20-%20Una%20pel%C3%ADcula%20de%20Breaking%20Bad.ia.mp4"},
         {"nombre": "¿Quién engañó a Roger Rabbit?", "url": "https://dn721800.ca.archive.org/0/items/quien-engano-a-roger-rabbit/Quien%20Enga%C3%B1o%20a%20Roger%20Rabbit.mp4"},
+        {
+            "nombre": "La Lengua de las Mariposas",
+            "tipo": "archive_dinamico",
+            "archive_id": "1999-la-lengua-de-las-mariposas-jose-luis-cuerda"
+        },
         {"nombre": "Your Name - Castellano", "url": "https://ia801606.us.archive.org/4/items/kimi-no-nawa-your-name-castellano/Kimi%20no%20Nawa%20Your%20Name%20Castellano.mp4"},
         {"nombre": "El Gigante de Hierro", "url": "https://dn721901.ca.archive.org/0/items/el-gigante-de-hierro_202312/El%20Gigante%20De%20Hierro.mp4"}
     ],
